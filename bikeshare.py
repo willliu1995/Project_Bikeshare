@@ -1,5 +1,4 @@
 import time
-import time
 import pandas as pd
 
 CITY_DATA = {'Chicago': 'chicago.csv',
